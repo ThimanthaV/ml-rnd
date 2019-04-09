@@ -1,4 +1,0 @@
-
-Below is the link to the dataset :
-
-https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs
